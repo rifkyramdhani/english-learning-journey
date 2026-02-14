@@ -600,11 +600,9 @@ Bagian 3:
 10. if my friends were here, i would not be swimming alone
 11. if it had been raining last night, i would not have gone out
 12. If he had not picked me up this morning, i would not have come
-13. The students who had not come yesterday, 
- 
-183
- 
- 
+13. The students who had not come yesterday
+
+
 Bagian 2 Day 1
 1. It was not me
 2. I am agree
@@ -726,7 +724,6 @@ Noun part 2
 5. flying with Garuda is more comfortable
    it is more comfortable to fly with Garuda
  
-page 45 
  
 Day 5 Verb part 1
  
@@ -820,11 +817,16 @@ Adjective Part 2
 1. The woman walking with her husband is my teacher
 2. The students who will come must be tested
 3. The tourists from the US are sleeping
-4.
 
 Terakhir Page 71
 
-I am trying to help you. I go to school. She goes to work. I will go to school. I don’t believe you seriously. I don’t like you anymore. Will you help me? There is a room for you on the second floor. 
+I am trying to help you.
+I go to school. She goes to work. 
+I will go to school. 
+I don’t believe you seriously. 
+I don’t like you anymore. 
+Will you help me? 
+There is a room for you on the second floor. 
 
 Adjective part 1
 
@@ -857,7 +859,6 @@ Adjective part 1
 4. the three fingered baby will be adopted by a cars selling businessman
 5. A car has been bought by a woman
 6. A two wheeled car has been bought by a red dressed woman
-
 
 Adjective part 2
 
@@ -931,7 +932,6 @@ Adjective part 4
 8. The victim found after three days is quite worrying
 9. He feels satisfied with the answer given by Rina
 10. I am worried about the children living on the street
-
 
 
 START AGAIN FROM DAY 1
@@ -1080,7 +1080,6 @@ Youtube SImple English Day 3
 9. Dian is wearing earrings, they are nice
 10. A bird is singing, it sings every day, i like that bird
 
-PDF Day 3
 Latihan 8
 
 1. I know him, and he is close with me
@@ -1291,25 +1290,85 @@ Youtube Day 9
 4. Be patient, don't be angry
 5. Come on time tomorrow, don't be late
  
-1. I am not her, because i am not crazy 2. She doesn't understand, she hasn't watched that new movie 3. Let him alone, don't disturb him 4. I haven't met her yet 5. I haven't seen her since morning 6. Don't use that laptop, because it is not yours 7. Try again, don't be despair 8. Call him now, don't be afraid 9. I don't know much about him 10. They are not doing their homework
- 
-1. That red bag is not mine 2. Don't blame her, she doesn't know anything 3. Bring the flash tomorrow, i need it 4. She hasn't returned the book 5. I haven't eaten but i am not hungry 6. Don't trust that girl, she is a liar 7. Turn off the lamp and lock the door 8. I am not thinking about her 9. She doesn't agree but she is not mad, don't worry, she is not them, you haven't known her 10. I don't agree but i am not mad, don't be afraid, i am not them, she hasn't known me
+1. I am not her, because i am not crazy
+2. She doesn't understand, she hasn't watched that new movie
+3. Let him alone, don't disturb him
+4. I haven't met her yet
+5. I haven't seen her since morning
+6. Don't use that laptop, because it is not yours
+7. Try again, don't be despair
+8. Call him now, don't be afraid
+9. I don't know much about him
+10. They are not doing their homework
+
+1. That red bag is not mine
+2. Don't blame her, she doesn't know anything
+3. Bring the flash tomorrow, i need it
+4. She hasn't returned the book
+5. I haven't eaten but i am not hungry
+6. Don't trust that girl, she is a lia
+7. Turn off the lamp and lock the door
+8. I am not thinking about her
+9. She doesn't agree but she is not mad, don't worry, she is not them, you haven't known her
+10. I don't agree but i am not mad, don't be afraid, i am not them, she hasn't known me
  
 Latihan 15
  
-1. I am not hungry, i don't eat meats 2. You are not polite, you don't have manners 3. We are not thirsty, we don't drink beers 4. They are not like you, they don't like you 5. He is not interested, he doesn't want it 6. She is not angry, she doesn't hate you 7. That dog is not vicious, it doesn't bite 8. Ria is not pretty, she doesn't impress for me 9. Andi and Rais are not naughty, they don't bully 10. Narcotics are not good, it doesn't help
+1. I am not hungry, i don't eat meats
+2. You are not polite, you don't have manners
+3. We are not thirsty, we don't drink beers
+4. They are not like you, they don't like you
+5. He is not interested, he doesn't want it
+6. She is not angry, she doesn't hate you
+7. That dog is not vicious, it doesn't bite
+8. Ria is not pretty, she doesn't impress for me
+9. Andi and Rais are not naughty, they don't bully
+10. Narcotics are not good, it doesn't help
  
 Latihan 16
  
-1. I am a teacher, i am not a lecturer 2. You are just my friend, you are not my lover 3. We are from Indonesia, we are not from Malaysia 4. They are soldiers, they are not police 5. He is a man, not a woman 6. She is a lawyer, she is not a doctor 7. That dog is theirs, that is not mine 8. Ria is a singer, she is not a dancer 9. Andi and Rais are from UI, they are not from ITB 10. Narcotics are dangerous. narcotics is not a solution 11. I am not an angel, i am not perfect, and i don't have wings 13. He is not an angel, he is not perfect, and he doesn't have wings 14. They are not angels, they are not perfect, they don't have wings
+1. I am a teacher, i am not a lecturer
+2. You are just my friend, you are not my lover
+3. We are from Indonesia, we are not from Malaysia
+4. They are soldiers, they are not police
+5. He is a man, not a woman
+6. She is a lawyer, she is not a doctor
+7. That dog is theirs, that is not mine
+8. Ria is a singer, she is not a dancer
+9. Andi and Rais are from UI, they are not from ITB
+10. Narcotics are dangerous. narcotics is not a solution
+11. I am not an angel, i am not perfect, and i don't have wings
+13. He is not an angel, he is not perfect, and he doesn't have wings
+14. They are not angels, they are not perfect, they don't have wings
  
 Latihan 17
  
-1. I am not working, i am sitting in the terrace 2. You are not helping me, you are blowing my concentration 3. We are not playing basketball, we are playing soccer 4. They are not studying, they are watching 5. He is not talking with Rita, he is talking with Nia 6. She is not cooking, she is cleaning the kitchen 7. That dog is not barking to us, it is barking to them 8. Ria is not having dinner with me, she is having dinner with Rio 9. Andi and Rais are not doing their homework, they are playing PS 10. Narcotics are not curing them, narcotics are killing them slowly
+1. I am not working, i am sitting in the terrace
+2. You are not helping me, you are blowing my concentration
+3. We are not playing basketball, we are playing soccer
+4. They are not studying, they are watching
+5. He is not talking with Rita, he is talking with Nia
+6. She is not cooking, she is cleaning the kitchen
+7. That dog is not barking to us, it is barking to them
+8. Ria is not having dinner with me, she is having dinner with Rio
+9. Andi and Rais are not doing their homework, they are playing PS
+10. Narcotics are not curing them, narcotics are killing them slowly
  
 Latihan 18
  
-1. I have eaten but i haven't taken a bath 2. You have taken a bath but you haven't eaten 3. We have been to Europe, but we haven't been to Bali 4. They have been to Bali, but they haven't been to Europe 5. He has graduated but he hasn't got a job 6. She has got a job, although she hasn't graduated 7. That dog has run away and that dog hasn't retuned 8. Ria has told me but she hasn't told them 9. Andi and Rais have visited Ancol but they haven't visited Monas 10. Narcotics have killed hundreds people, narcotics haven't killed them 11. I am not eating, i haven't eating but i am not hungry and i don't eat that foods, i am not kids 12. She is not eating, she hasn't eaten but she is not hungry and she doesn't eat that food, she is not a child 13. They are not eating, they haven't eaten but they are not hungry, and they don't eat that foods, they are not a child
+1. I have eaten but i haven't taken a bath
+2. You have taken a bath but you haven't eaten
+3. We have been to Europe, but we haven't been to Bali
+4. They have been to Bali, but they haven't been to Europe
+5. He has graduated but he hasn't got a job
+6. She has got a job, although she hasn't graduated
+7. That dog has run away and that dog hasn't retuned
+8. Ria has told me but she hasn't told them
+9. Andi and Rais have visited Ancol but they haven't visited Monas
+10. Narcotics have killed hundreds people, narcotics haven't killed them
+11. I am not eating, i haven't eating but i am not hungry and i don't eat that foods, i am not kids
+12. She is not eating, she hasn't eaten but she is not hungry and she doesn't eat that food, she is not a child
+13. They are not eating, they haven't eaten but they are not hungry, and they don't eat that foods, they are not a child
 
 Latihan 19
 
