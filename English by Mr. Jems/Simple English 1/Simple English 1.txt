@@ -2026,3 +2026,26 @@ Latihan 42
 8. I am a writer, i am a teacher too, this is my first book and this is my second book
 9. Last year, i was in Bali, Andi was in Jakarta, Rais and Rio were in Surabaya, meanwhile Ria and RIna were in Bandung
 10. He can’t be a leader because he can’t be patient. That is my opinion, that is Rio’s too
+
+Youtube Day 24
+1. My money was stolen last night when i was sleeping
+2. He is in the hospital now, he was hit by an ojek
+3. This room must be cleaned now
+4. That was your fault, you will be punished
+5. The money has been transfered to your account
+6. That old building is being renovated
+7. This tool can be used for anything
+8. This house is equipped with CCTV
+9. These programs are sponsored by me
+10. His house was robbed, his computer and tv were taken
+
+1. My money was not stolen last night
+2. Was he hit by an ojek?
+3. This room must not be cleaned now
+4. Will you be punished?
+5. The money has not been transfered
+6. is that old building being renovated?
+7. This tool can not be used for anything
+8. Is this house equipped with CCTV?
+9. These programs are not sponsored by me
+10. Was his house robbed, What was taken
